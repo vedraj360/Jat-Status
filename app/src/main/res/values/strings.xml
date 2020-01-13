@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Jat Status</string>
+
+    <string-array name="navigation_drawer_items_array">
+        <item>Notifications</item>
+        <item>More Apps</item>
+        <item>About Us</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="About_Us">About Us</string>
+    <string name="Notifications">Notifications</string>
+    <string name="More_Apps">More_Apps</string>
+    <string name="Share">Share</string>
+    <string name="Rate_Us">Rate Us</string>
+    <string name="Home">Home</string>
+
+    <string name="title_1">Cool card</string>
+    <string name="title_2">Ok card</string>
+    <string name="title_3">Bad card</string>
+    <string name="title_4">Ugly card</string>
+
+    <string name="text_1">Lorem ipsum dolor sit amet, consectetur adipiscing elit.  Etiam eget ligula eu lectus lobortis condimentum.</string>
+    <string name="copy_right">Copy Right</string>
+
+</resources>
+
+
